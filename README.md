@@ -6,8 +6,11 @@
 
 ### Built With
 [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+
 [Pandas](https://en.wikipedia.org/wiki/PANDAS)
+
 [Numpy](https://en.wikipedia.org/wiki/NumPy)
+
 [Matplotlib](https://en.wikipedia.org/wiki/Matplotlib)
 
 ## Usage
