@@ -16,6 +16,9 @@
 ## Usage
 - The notebook is purely for visualizing and analyzing purpose. By utilizing matplotlib, the users can clearly see how outliers affect the result of the finding (those who spend an extreme amount of money to study coding). By examining this notebook, the company can determine which market to advertise & how to distribute the budget in according to the price of the subscription per month ($59)
 
+## License
+This 2017 New Coder Survey is made available under the Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in individual contents of the database are licensed under the Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/
+
 ## Contact
 | Contact Method | |
 | --- | --- |
